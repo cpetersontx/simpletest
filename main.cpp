@@ -6,8 +6,6 @@ int main()
 	
 	int y;
 	y = 4;
-
-	zdfs = 5;
 	
 	return x--;
 	
