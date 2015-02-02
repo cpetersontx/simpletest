@@ -1,6 +1,7 @@
 int main()
 {
 	int x;
+	int zdfs;
 	x = 8;
 	
 	int y;
